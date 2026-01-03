@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+}
+
+.feedback-form {
+  width: 360px;
+  margin: 40px auto;
+  text-align: center;
+}
+
+.form-title {
+  color: #1e90ff; /* màu tiêu đề */
+  margin-bottom: 20px;
+}
+
+.feedback-form label {
+  display: block;
+  text-align: center;
+  margin-bottom: 6px;
+  font-size: 14px;
+}
+
+.feedback-form input,
+.feedback-form textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 14px;
+  border: 1px solid #1e90ff; /* màu viền input */
+  font-size: 13px;
+  box-sizing: border-box;
+}
+
+.feedback-form textarea {
+  height: 90px;
+  resize: none;
+}
+
+.feedback-form button {
+  background-color: #00bfff; /* màu nút gửi */
+  color: #ffffff;
+  border: none;
+  padding: 8px 18px;
+  font-size: 13px;
+  cursor: pointer;
+}

@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+}
+
+.info-box {
+  background-color: #f4f4f9;
+  padding: 20px 26px;
+  margin: 40px auto;
+}
+
+.info-title {
+  color: #1e90ff;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0 0 6px;
+  text-align: center;
+}
+
+.info-text,
+.contact-text {
+  font-size: 13px;
+  color: #000;
+  line-height: 1.5;
+  margin: 0 0 14px;
+}
