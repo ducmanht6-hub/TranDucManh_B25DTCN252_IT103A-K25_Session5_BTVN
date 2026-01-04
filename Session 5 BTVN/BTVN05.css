@@ -10,7 +10,7 @@ body {
 }
 
 .form-title {
-  color: #1e90ff; /* màu tiêu đề */
+  color: #1e90ff;
   margin-bottom: 20px;
 }
 
@@ -26,7 +26,7 @@ body {
   width: 100%;
   padding: 8px;
   margin-bottom: 14px;
-  border: 1px solid #1e90ff; /* màu viền input */
+  border: 1px solid #1e90ff;
   font-size: 13px;
   box-sizing: border-box;
 }
@@ -37,10 +37,11 @@ body {
 }
 
 .feedback-form button {
-  background-color: #00bfff; /* màu nút gửi */
+  background-color: #00bfff;
   color: #ffffff;
   border: none;
   padding: 8px 18px;
   font-size: 13px;
   cursor: pointer;
 }
+
