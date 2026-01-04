@@ -1,17 +1,15 @@
-/* Reset */
+
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Nền xám phía sau */
 .wrapper {
   background-color: #eeeeee;
   min-height: 100vh;
   padding: 30px 0;
 }
 
-/* Khối trắng */
 .container {
   max-width: 900px;
   margin: auto;
@@ -19,21 +17,18 @@ body {
   padding: 30px;
 }
 
-/* ===== PHẦN QUẢNG CÁO ===== */
 .promo-section {
   background-color: #eaf7fd;
   text-align: center;
   padding: 30px;
 }
 
-/* Tiêu đề */
 .promo-title {
   color: #1e5bff;
   font-size: 22px;
   margin-bottom: 20px;
 }
 
-/* Thẻ bác sĩ */
 .doctor-card img {
   width: 160px;
   margin-bottom: 10px;
@@ -58,3 +53,4 @@ body {
   margin-top: 30px;
   border-bottom: 2px dotted #bbb;
 }
+
